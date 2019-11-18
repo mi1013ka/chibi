@@ -1,17 +1,10 @@
 
-example Expr 1
-example Expr 1+2
-example Expr 1+2+3
+example Expr 1+2*3
+example Expr 1*2+3
 
-Expr ={Value '+' Expr #Add}
-    /{Value '*' Expr #mul}
-    / Value
+Expr ={Value '+' Expr #Add} / Prod
+Prod ={Value '*' Expr #mul} / Value
 
-Expr = {
-    Value ('+' Value)*
-    #Add
-}
-
-Value = {DIGIT+ #Int}
+Value = {DIGIT+ #Int} / '(' Expr ')'
 DIGIT =[0-9]
 
