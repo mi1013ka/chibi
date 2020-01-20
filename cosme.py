@@ -66,6 +66,7 @@ while True:
           import webbrowser
           #Jil Lip
           url = "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/g/gSJLA060/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -77,6 +78,7 @@ while True:
           import webbrowser
           #Jil Cheek
           url = "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/g/gSTAI007/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -88,6 +90,7 @@ while True:
           import webbrowser
           #Jil eye
           url = "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/g/gSJEM005/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -99,6 +102,7 @@ while True:
           import webbrowser
           #Jil base
           url = "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/g/gSJZC103/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -110,6 +114,7 @@ while True:
           import webbrowser
           #Paul Lip
           url = "https://www.paul-joe-beaute.com/jp/products/APADTE/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -121,6 +126,7 @@ while True:
           import webbrowser
           #Paul Cheek
           url = "https://www.paul-joe-beaute.com/jp/products/APABJX/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -132,6 +138,7 @@ while True:
           import webbrowser
           #Paul Eye
           url = "https://www.paul-joe-beaute.com/jp/products/APACEU/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -143,6 +150,7 @@ while True:
           import webbrowser
           #Paul base
           url = "https://www.paul-joe-beaute.com/jp/products/APAAVL/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -158,6 +166,7 @@ while True:
           import webbrowser
           #リップ
           url = "https://onlineshop.rmkrmk.com/shopdetail/000000000411/lips/page1/recommend/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -169,6 +178,7 @@ while True:
           import webbrowser
           #チーク
           url = "https://onlineshop.rmkrmk.com/shopdetail/000000000420/cheeks/page1/recommend/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -180,6 +190,7 @@ while True:
           import webbrowser
           #アイシャドウ
           "https://onlineshop.rmkrmk.com/shopdetail/000000000988/eyes/page1/recommend/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -191,6 +202,7 @@ while True:
           import webbrowser
           #ファンデ
           "https://onlineshop.rmkrmk.com/shopdetail/000000001007/foundation/page1/recommend/"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -202,6 +214,7 @@ while True:
           import webbrowser
           #Three Lip
           url = "https://www.threecosmetics.com/onlineshop/products/detail/poi-0401003"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -213,6 +226,7 @@ while True:
           import webbrowser
           #Three Cheek
           url = "https://www.threecosmetics.com/onlineshop/products/detail/poi-0406002"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -224,6 +238,7 @@ while True:
           import webbrowser
           #Three Eye
           url = "https://www.threecosmetics.com/onlineshop/products/detail/poi-0402009"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -235,6 +250,7 @@ while True:
           import webbrowser
           #Three base
           url = "https://www.threecosmetics.com/onlineshop/products/detail/bas-0302002"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -250,6 +266,7 @@ while True:
           import webbrowser
           #リップ
           url = "https://m.maccosmetics.jp/product/13854/310/makeup/matte-lipstick/lipstick"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -261,6 +278,7 @@ while True:
           import webbrowser
           #チーク
           url = "https://www.maccosmetics.jp/product/13842/31094/makeup/mineralize-blush"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -272,6 +290,7 @@ while True:
           import webbrowser
           #アイシャドウ
           url = "https://www.maccosmetics.jp/product/13840/363/makeup/eye-shadow/small-eye-shadow"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -283,6 +302,7 @@ while True:
           import webbrowser
           #ファンデ
           url = "https://www.maccosmetics.jp/product/13847/41471/makeup/studio-fix-fluid-spf15pa-foundation-skin-balancing-complex"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -294,6 +314,7 @@ while True:
           import webbrowser
           #ANNA SUI Lip
           url = "https://jp.annasui.com/products/asafts"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -305,6 +326,7 @@ while True:
           import webbrowser
           #ANNA SUI Cheek
           url = "https://jp.annasui.com/products/asabjd"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -316,6 +338,7 @@ while True:
           import webbrowser
           #ANNA SUI Eye
           url = "https://jp.annasui.com/products/asagea"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
@@ -327,287 +350,312 @@ while True:
           import webbrowser
           #ANNA SUI base
           url = "https://jp.annasui.com/products/asabfe"
+          webbrowser.open(url)
           break
         if m==1:
           print("最初から！")
-    if L == [1]:
-        a3 = "モード…0　エレガント…1　ギャル…2"
-        questions(a3,L)
-        if L==[1,0]:
-            a7 = "予算は奮発しちゃう！…0　予算は安めがいい！…1"
-            questions(a7,L)
-            items(x,L)
-            if L==[1,0,0,0]:
-                print("あなたのお友達へのプレゼントは【NARSのリップ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #NARS Lip
-                    url = "https://www.narscosmetics.jp/powermatte-lip-pigment/864901.html?dwvar_864901_color=2760&cgid=lips"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,0,0,1]:
-                print("あなたのお友達へのプレゼントは【NARSのチーク】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #NARS cheek
-                url = "https://www.narscosmetics.jp/blush/866201.html?dwvar_866201_color=4001N&cgid=blush"
-                break
-                if m==1:
-                    print("最初から！")
-            if L==[1,0,0,2]:
-                print("あなたのお友達へのプレゼントは【NARSのアイシャドウ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #NARS Eye
-                    url = "https://www.narscosmetics.jp/quad-eyeshadow-3972/4535683962803.html?cgid=eyeshadow"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,0,0,3]:
-                print("あなたのお友達へのプレゼントは【NARSのファンデーション】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #NARS base
-                    url ="https://www.narscosmetics.jp/natural-radiant-longwear-foundation/869801.html?dwvar_869801_color=6599&cgid=best-sellers"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,0,1,0]:
-                print("あなたのお友達へのプレゼントは【ADDICTIONのリップ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #ad  Lip
-                    url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=1330"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,0,1,1]:
-                print("あなたのお友達へのプレゼントは【ADDICTIONのチーク】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #ad cheek
-                    url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=1041"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,0,1,2]:
-                print("あなたのお友達へのプレゼントは【ADDICTIONのアイシャドウ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #ad Eye
-                    url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=614"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,0,1,3]:
-                print("あなたのお友達へのプレゼントは【ADDICTIONのファンデーション】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #ad base
-                    url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=1259"
-                    break
-                if m==1:
-                    print("最初から！")
-        if L==[1,1]:
-            a6 = "華やか…0　洗練…1"
-            questions(a6,L)
-            items(x,L)
-            if L==[1,1,0,0]:
-                print("あなたのお友達へのプレゼントは【DIORのリップ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #dior Lip
-                    url = "https://www.dior.com/ja_jp/"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,1,0,1]:
-                print("あなたのお友達へのプレゼントは【DIORのチーク】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #dior Cheek
-                    url = "https://www.dior.com/ja_jp/products/beauty-Y0000004"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,1,0,2]:
-                print("あなたのお友達へのプレゼントは【DIORのアイシャドウ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                #dior eye
-                    url = "https://www.dior.com/ja_jp/products/beauty-Y0012000"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,1,0,3]:
-                print("YESあなたのお友達へのプレゼントは【DIORのファンデーション】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #dior base
-                    url = "https://www.dior.com/ja_jp/products/beauty-Y0071000"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,1,1,0]:
-                print("あなたのお友達へのプレゼントは【CHANELのリップ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #chanel Lip
-                    url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/lips/lipsticks/rouge-coco-flash-colour-shine-intensity-in-a-flash-p174052.html#skuid-0174080"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,1,1,1]:
-                print("あなたのお友達へのプレゼントは【CHANELのチーク】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #chanel cheek
-                    url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/complexion/blush/joues-contraste-powder-blush-p168000.html#skuid-0168640"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,1,1,2]:
-                print("あなたのお友達へのプレゼントは【CHANELのアイシャドウ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #chanel Eye
-                    url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/eyes/eyeshadows/les-4-ombres-multi-effect-quadra-eyeshadow-p164202.html#skuid-0164294"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,1,1,3]:
-                print("あなたのお友達へのプレゼントは【CHANELのファンデーション】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #chanel base
-                    url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/complexion/foundations/les-beiges-healthy-glow-gel-touch-foundation-spf-25--pa--p184610.html#skuid-0184610"
-                    break
-                if m==1:
-                    print("最初から！")
-        if L==[1,2]:
-            a8 = "モノトーン好き！…0　モノトーンはいいや笑…1"
-            questions(a8,L)
-            items(x,L)
-            if L==[1,2,0,0]:
-                print("あなたのお友達へのプレゼントは【MACのリップ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #リップ
-                    url = "https://m.maccosmetics.jp/product/13854/310/makeup/matte-lipstick/lipstick"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,2,0,1]:
-                print("あなたのお友達へのプレゼントは【MACのチーク】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #チーク
-                    url = "https://www.maccosmetics.jp/product/13842/31094/makeup/mineralize-blush"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,2,0,2]:
-                print("あなたのお友達へのプレゼントは【MACのアイシャドウ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #アイシャドウ
-                    url = "https://www.maccosmetics.jp/product/13840/363/makeup/eye-shadow/small-eye-shadow"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,2,0,3]:
-                print("あなたのお友達へのプレゼントは【MACのファンデーション】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #ファンデ
-                    url = "https://www.maccosmetics.jp/product/13847/41471/makeup/studio-fix-fluid-spf15pa-foundation-skin-balancing-complex"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,2,1,0]:
-                print("あなたのお友達へのプレゼントは【ANNA SUIのリップ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #ANNA SUI Lip
-                    url = "https://jp.annasui.com/products/asafts"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,2,1,1]:
-                print("あなたのお友達へのプレゼントは【ANNA SUIのチーク】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #ANNA SUI Cheek
-                    url = "https://jp.annasui.com/products/asabjd"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,2,1,2]:
-                print("あなたのお友達へのプレゼントは【ANNA SUIのアイシャドウ】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #ANNA SUI Eye
-                    url = "https://jp.annasui.com/products/asagea"
-                    break
-                if m==1:
-                    print("最初から！")
-            if L==[1,2,1,3]:
-                print("あなたのお友達へのプレゼントは【ANNA SUIのファンデーション】！")
-                print("HPに行く…0  最初に戻る…1")
-                m=int(input())
-                if m==0:
-                    import webbrowser
-                    #ANNA SUI base
-                    url = "https://jp.annasui.com/products/asabfe"
-                    break
-                if m==1:
-                    print("最初から！")
+  if L == [1]:
+      a3 = "モード…0　エレガント…1　ギャル…2"
+      questions(a3,L)
+      if L==[1,0]:
+          a7 = "予算は奮発しちゃう！…0　予算は安めがいい！…1"
+          questions(a7,L)
+          items(x,L)
+          if L==[1,0,0,0]:
+              print("あなたのお友達へのプレゼントは【NARSのリップ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #NARS Lip
+                  url = "https://www.narscosmetics.jp/powermatte-lip-pigment/864901.html?dwvar_864901_color=2760&cgid=lips"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,0,0,1]:
+              print("あなたのお友達へのプレゼントは【NARSのチーク】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #NARS cheek
+              url = "https://www.narscosmetics.jp/blush/866201.html?dwvar_866201_color=4001N&cgid=blush"
+              webbrowser.open(url)
+              break
+              if m==1:
+                  print("最初から！")
+          if L==[1,0,0,2]:
+              print("あなたのお友達へのプレゼントは【NARSのアイシャドウ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #NARS Eye
+                  url = "https://www.narscosmetics.jp/quad-eyeshadow-3972/4535683962803.html?cgid=eyeshadow"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,0,0,3]:
+              print("あなたのお友達へのプレゼントは【NARSのファンデーション】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #NARS base
+                  url ="https://www.narscosmetics.jp/natural-radiant-longwear-foundation/869801.html?dwvar_869801_color=6599&cgid=best-sellers"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,0,1,0]:
+              print("あなたのお友達へのプレゼントは【ADDICTIONのリップ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #ad  Lip
+                  url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=1330"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,0,1,1]:
+              print("あなたのお友達へのプレゼントは【ADDICTIONのチーク】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #ad cheek
+                  url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=1041"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,0,1,2]:
+              print("あなたのお友達へのプレゼントは【ADDICTIONのアイシャドウ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #ad Eye
+                  url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=614"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,0,1,3]:
+              print("あなたのお友達へのプレゼントは【ADDICTIONのファンデーション】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #ad base
+                  url = "https://onlineshop.addiction-beauty.com/ItemDetail?cmId=1259"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+      if L==[1,1]:
+          a6 = "華やか…0　洗練…1"
+          questions(a6,L)
+          items(x,L)
+          if L==[1,1,0,0]:
+              print("あなたのお友達へのプレゼントは【DIORのリップ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #dior Lip
+                  url = "https://www.dior.com/ja_jp/"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,1,0,1]:
+              print("あなたのお友達へのプレゼントは【DIORのチーク】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #dior Cheek
+                  url = "https://www.dior.com/ja_jp/products/beauty-Y0000004"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,1,0,2]:
+              print("あなたのお友達へのプレゼントは【DIORのアイシャドウ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+              #dior eye
+                  url = "https://www.dior.com/ja_jp/products/beauty-Y0012000"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,1,0,3]:
+              print("YESあなたのお友達へのプレゼントは【DIORのファンデーション】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #dior base
+                  url = "https://www.dior.com/ja_jp/products/beauty-Y0071000"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,1,1,0]:
+              print("あなたのお友達へのプレゼントは【CHANELのリップ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #chanel Lip
+                  url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/lips/lipsticks/rouge-coco-flash-colour-shine-intensity-in-a-flash-p174052.html#skuid-0174080"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,1,1,1]:
+              print("あなたのお友達へのプレゼントは【CHANELのチーク】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #chanel cheek
+                  url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/complexion/blush/joues-contraste-powder-blush-p168000.html#skuid-0168640"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,1,1,2]:
+              print("あなたのお友達へのプレゼントは【CHANELのアイシャドウ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #chanel Eye
+                  url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/eyes/eyeshadows/les-4-ombres-multi-effect-quadra-eyeshadow-p164202.html#skuid-0164294"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,1,1,3]:
+              print("あなたのお友達へのプレゼントは【CHANELのファンデーション】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #chanel base
+                  url = "https://www.chanel.com/ja_JP/fragrance-beauty/makeup/p/complexion/foundations/les-beiges-healthy-glow-gel-touch-foundation-spf-25--pa--p184610.html#skuid-0184610"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+      if L==[1,2]:
+          a8 = "モノトーン好き！…0　モノトーンはいいや笑…1"
+          questions(a8,L)
+          items(x,L)
+          if L==[1,2,0,0]:
+              print("あなたのお友達へのプレゼントは【MACのリップ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #リップ
+                  url = "https://m.maccosmetics.jp/product/13854/310/makeup/matte-lipstick/lipstick"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,2,0,1]:
+              print("あなたのお友達へのプレゼントは【MACのチーク】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #チーク
+                  url = "https://www.maccosmetics.jp/product/13842/31094/makeup/mineralize-blush"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,2,0,2]:
+              print("あなたのお友達へのプレゼントは【MACのアイシャドウ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #アイシャドウ
+                  url = "https://www.maccosmetics.jp/product/13840/363/makeup/eye-shadow/small-eye-shadow"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,2,0,3]:
+              print("あなたのお友達へのプレゼントは【MACのファンデーション】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #ファンデ
+                  url = "https://www.maccosmetics.jp/product/13847/41471/makeup/studio-fix-fluid-spf15pa-foundation-skin-balancing-complex"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,2,1,0]:
+              print("あなたのお友達へのプレゼントは【ANNA SUIのリップ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #ANNA SUI Lip
+                  url = "https://jp.annasui.com/products/asafts"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,2,1,1]:
+              print("あなたのお友達へのプレゼントは【ANNA SUIのチーク】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #ANNA SUI Cheek
+                  url = "https://jp.annasui.com/products/asabjd"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,2,1,2]:
+              print("あなたのお友達へのプレゼントは【ANNA SUIのアイシャドウ】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #ANNA SUI Eye
+                  url = "https://jp.annasui.com/products/asagea"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
+          if L==[1,2,1,3]:
+              print("あなたのお友達へのプレゼントは【ANNA SUIのファンデーション】！")
+              print("HPに行く…0  最初に戻る…1")
+              m=int(input())
+              if m==0:
+                  import webbrowser
+                  #ANNA SUI base
+                  url = "https://jp.annasui.com/products/asabfe"
+                  webbrowser.open(url)
+                  break
+              if m==1:
+                  print("最初から！")
 else:
-     print("指定された数字のみ入力してください。")
+  print("指定された数字のみ入力してください。")
